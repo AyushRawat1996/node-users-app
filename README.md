@@ -1,1 +1,1 @@
-# node-users-app
+# Skeleton project for Swagger
